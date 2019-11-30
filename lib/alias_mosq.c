@@ -12,6 +12,8 @@ and the Eclipse Distribution License is available at
  
 Contributors:
    Roger Light - initial implementation and documentation.
+ 
+Baseline
 */
 
 #include "config.h"
